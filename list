@@ -1,3 +1,5 @@
+! Title: Youtube BS
+
 ! Title: Search screen BS
 www.youtube.com##ytd-search ytd-shelf-renderer.ytd-item-section-renderer.style-scope span#title:has-text(/People also watched|People also search for|For you|Related to your search|Recommended videos for you|Previously watched/):upward(ytd-shelf-renderer.ytd-item-section-renderer.style-scope)
 
